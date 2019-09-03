@@ -1,2 +1,2 @@
-# Machine-learning
+# Exercise
 Some exercise or small project
