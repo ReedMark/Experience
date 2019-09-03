@@ -1,2 +1,2 @@
 # Machine-learning
-Some codes about machine learning
+Some exercise or small project
